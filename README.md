@@ -6,3 +6,7 @@ https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/app?pivots=wind
 ## Várias notas sendo salvas cada uma em um arquivo txt
 ### CollectionView, Shell Navigation
 https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/navigation?pivots=windows
+
+# Parte 3
+## Notas sendo persistidas no sqlite
+https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/database?pivots=windows
