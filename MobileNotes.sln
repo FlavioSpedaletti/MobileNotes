@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileNotes", "MobileNotes\MobileAnalyze\MobileNotes.csproj", "{5E388601-1158-4CD0-9CBB-71AB53ADD6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileNotes.Android", "MobileNotes\MobileAnalyze.Android\MobileNotes.Android.csproj", "{8439BBFD-82A5-4F57-A9F6-B186347FA01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E388601-1158-4CD0-9CBB-71AB53ADD6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E388601-1158-4CD0-9CBB-71AB53ADD6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E388601-1158-4CD0-9CBB-71AB53ADD6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E388601-1158-4CD0-9CBB-71AB53ADD6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8439BBFD-82A5-4F57-A9F6-B186347FA01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8439BBFD-82A5-4F57-A9F6-B186347FA01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8439BBFD-82A5-4F57-A9F6-B186347FA01B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8439BBFD-82A5-4F57-A9F6-B186347FA01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8439BBFD-82A5-4F57-A9F6-B186347FA01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8439BBFD-82A5-4F57-A9F6-B186347FA01B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89E21C1-A0E0-4B89-9C00-2297AF58870D}
+	EndGlobalSection
+EndGlobal
