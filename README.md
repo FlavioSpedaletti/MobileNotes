@@ -10,3 +10,7 @@ https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/navigation?pivo
 # Parte 3
 ## Notas sendo persistidas no sqlite
 https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/database?pivots=windows
+
+# Parte 4
+## Adicionando estilos customizados
+https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/styling?pivots=windows
